@@ -87,7 +87,7 @@ Publicado a cada 3 segundos com dados do dispositivo.
 ## 🖥️ Simulação
 
 Acesse a simulação no Wokwi:
-🔗 [Link do Wokwi][#](https://wokwi.com/projects/305569599398609473)
+🔗 [Link do Wokwi](https://wokwi.com/projects/305569599398609473)
 
 ---
 
@@ -102,7 +102,7 @@ Visualize os dados em tempo real:
 
 ## 🎥 Vídeo
 
-🔗 [Link do vídeo](#) ← cole o link aqui
+🔗 [Link do vídeo](https://youtu.be/CGsVQfU0WaU)
 
 ---
 
